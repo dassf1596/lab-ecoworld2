@@ -52,6 +52,6 @@
 ---
 
 ## ✅ Checklist ส่งงาน
-- [ ] Repo มี Collaborator ครบ 2 คน
-- [ ] ไฟล์ index.html สมบูรณ์ (มีทั้ง Header และ Content)
-- [ ] ประวัติ Commit แสดงให้เห็นว่าต่างคนต่างทำ
+- [✅] Repo มี Collaborator ครบ 2 คน
+- [✅] ไฟล์ index.html สมบูรณ์ (มีทั้ง Header และ Content)
+- [✅] ประวัติ Commit แสดงให้เห็นว่าต่างคนต่างทำ
